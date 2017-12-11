@@ -1,0 +1,126 @@
+.cmpcontainer {
+  margin: 0.75rem 1.5rem 0.75rem 1.5rem;
+  border: 2px solid rgb(243, 242, 242);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.07)
+}
+
+.h-centered {
+  text-align: center;
+}
+
+.bg-header {
+  background-color: rgb(240, 240, 240);
+  padding: 5.5px;
+}
+
+.bg-header2 {
+  background-color: rgb(240, 240, 240);
+}
+
+.w-full {
+  width: 100%;
+}
+
+.card {
+  padding: 1.5rem;
+}
+
+.i-short {
+  width: 120px;
+}
+
+.saveTab {
+  position: relative;
+  margin: 1rem -1.5rem -1.5rem;
+  width: auto;
+}
+
+.mapContainer {
+  height: 500px;
+  padding: 10px;
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+}
+
+.options {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: -445px;
+}
+
+.calendar {
+  width: 125px;
+}
+
+.separator {
+  margin: 3px;
+}
+
+.schedulePadded {
+  padding-left: 20px;
+}
+
+.normalHeight {
+  height: 12.5px;
+}
+
+.centerAligned {
+  text-align: center;
+}
+
+.alarmsContainer {
+  height: 500px;
+  overflow-y: auto;
+  text-align: center;
+}
+
+.cardHeader {
+  display: inline-flex;
+  width: 100%
+}
+
+.ch1 {
+  width: 85%;
+}
+
+.ch2 {
+  width: 15%;
+}
+
+.modal {
+  display: none;
+}
+
+.alarm {
+  margin: .1rem;
+  width: 99%;
+  min-width: 0 !important;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable:hover {
+  background-color: #DADEEC;
+}
+
+.h-width {
+  width: 50%;
+}
+
+.w-almost {
+  width: 96%;
+}
+
+.timeLine {
+  position: absolute;
+  border: 1px solid black;
+  height: 241px;
+  margin-top: 32px;
+  display: none;
+}
